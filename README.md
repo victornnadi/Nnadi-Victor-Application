@@ -1,2 +1,2 @@
-# ProthPrimeChecker
-A program to check if a number is a Proth Prime
+# Nnadi Victor's Application
+Solution to the 5 questions.
